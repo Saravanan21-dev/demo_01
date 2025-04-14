@@ -1,0 +1,4 @@
+Terraform
+GitHub
+azure cli
+ansible
